@@ -1,6 +1,3 @@
 print("vvce")
 print("CSE")
 print("engineer")
-print("Pooja")
-print("Devops")
-print("E sec")
